@@ -11,7 +11,7 @@ My research focuses on Embodied AI.
 
 
 <!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingyaogong&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangyuan-ksgk&show_icons=true&theme=merko)
 -->
 
 <picture>
