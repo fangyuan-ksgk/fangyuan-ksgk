@@ -7,7 +7,7 @@
 
 "Life could only be understood backward, yet it must be lived forward"  
 
-My research focuses on Embodied AI. I'm interested in maximizing compression.
+My research focuses on Embodied AI, I believe intelligence emerges from maximizing compression. 
 
 
 <!--
