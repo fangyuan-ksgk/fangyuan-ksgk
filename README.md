@@ -5,9 +5,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/fangyuan/count.svg)
 
 
-"Life could only be understood backward, yet it must be lived forward"  
+“What I cannot create, I do not understand.” -- Richard Feynman 
 
-My research focuses on Embodied AI, I believe intelligence emerges from maximizing compression. 
+I believe intelligence emerges from maximizing compression. 
 
 
 <!--
