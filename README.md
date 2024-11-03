@@ -5,7 +5,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/fangyuan/count.svg)
 
 
-“What I cannot create, I do not understand.” -- Richard Feynman 
+"Life can only be lived forward, yet it could only be understood backward"
 
 I believe intelligence emerges from maximizing compression. 
 
