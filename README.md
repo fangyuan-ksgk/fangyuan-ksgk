@@ -2,10 +2,8 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/fangyuan/count.svg)
 
-
-"Life can only be lived forward, yet it could only be understood backward"
+"What I cannot create, I do not understand"
 
 I believe intelligence emerges from maximizing compression. 
 
